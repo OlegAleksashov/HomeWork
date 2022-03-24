@@ -2,9 +2,9 @@ package home_work_1;
 
 public class task_1_2 {
     public static void main(String[] args) {
-        int a = 42; //
-        int b = 15;
-        int c = a & b;
+        int a = 42; // 00101010
+        int b = 15; // 00001111
+        int c = a & b; // результат
         int d = a | b;
         int s = ~ a;
         int g = a ^ b;
