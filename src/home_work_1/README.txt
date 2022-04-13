@@ -8,5 +8,3 @@ task_5_1   задача 5 if
 task_5_2   задача 5 if else if
 task_5_1   задача 5 switch
 task_7   задача 7  (не выполнена)
-
-
